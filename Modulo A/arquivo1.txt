@@ -60,14 +60,6 @@ Dasabilitando o javascript do google
 
 : Desabilitando o javascript, faça que a barra de pesquisa, não sugera links
 
-------> Dicas de aprendizagem
-
---------> JS versus ECMAScript
-
---------> Requisitos de software?
-
---------> Primeiros Scripts em JS
-
 
 Oque vc acha de aprender javascript
 
