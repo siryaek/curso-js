@@ -1,0 +1,64 @@
+-------> Oque o javascript é capaz de fazer?
+
+: Javascript faz praticamente tudo!
+
+Client x Server
+             
+           <SITE> 
+<PC/Client>     <CELL/Client>          <SITE>
+         \       /                       |
+         <Navgador>               <NAVEGADOR>
+              |                       \__
+           <Nuvem>                     \
+              |                          \
+              |                           | 
+          <SERVER>                        | 
+                  \ <Diretórios>          |
+                                <Arquivo/Documento>
+
+- Client seria nós
+- Após o client pesquisar o que ele deseja, o navegador procura a nuvem, a nuvem procura o servidor e o servidor os diretorios. Depois sai o arquivo e é feita uma copia 
+enviada para o navagador fazendo ele fazer o site!
+
+- Javascript funciona Muito mais do lado do client!
+
+Tecnologias
+
+Um website é composto por 3 tecnologias perto do client
+
+- HTML - Jornalista - Escrever o texto da materia. Conteudo
+- CSS - Desgner - Organizar cores, Temanhos, dimencionar tamnhos. Tornar as coisas mais bonitas
+- JAVASCRIPT - Programador - COnfigurações de cada coisas, integrações da empresa, segurança. Interação
+
+
+
+
+
+SITE JAVASCRIPT
+
+
+- OQue eu posso fazer?
+
+<TEXTO>                 <IMG>             <TEXTO>
+                           <MOUSE>
+                        <TEXTO>
+
+: Passando o mause por sime da imagem, mostra um texto na tela
+: Apertando na imagem, Apliar a imagem na tela
+
+: Nós nao podemos falar que programamos html e css, isso porque html e css não são uma linguagem e sim tecnologias de contrução de site! Já o JAVASCRIPT vc sim pode dizer 
+que programa javascript!
+
+
+------> Dicas de aprendizagem
+
+--------> JS versus ECMAScript
+
+--------> Requisitos de software?
+
+--------> Primeiros Scripts em JS
+
+
+Oque vc acha de aprender javascript
+
+- Fazer muitas coisas em websites
