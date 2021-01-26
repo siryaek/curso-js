@@ -49,6 +49,16 @@ SITE JAVASCRIPT
 : Nós nao podemos falar que programamos html e css, isso porque html e css não são uma linguagem e sim tecnologias de contrução de site! Já o JAVASCRIPT vc sim pode dizer 
 que programa javascript!
 
+- Quem usa o javascript?
+
+: Google
+: Youtube
+: Netflix
+: FaceBook
+
+Dasabilitando o javascript do google
+
+: Desabilitando o javascript, faça que a barra de pesquisa, não sugera links
 
 ------> Dicas de aprendizagem
 
